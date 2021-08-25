@@ -1,5 +1,3 @@
-# air-pollutant-analysis-delhi
-
 # Analyzing Air Pollutant Concentrations in New Delhi, India
 
 With the spirit of reproducible research, this repository contains all the codes required to produce the results in the manuscript:

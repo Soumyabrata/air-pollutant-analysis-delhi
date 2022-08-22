@@ -2,7 +2,7 @@
 
 With the spirit of reproducible research, this repository contains all the codes required to produce the results in the manuscript:
 
-> Alparslan, B., Jain, M., Wu, J. and Dev, S.(2021). "Analyzing Air Pollutant Concentrations in New Delhi, India." Progress in Electromagnetic Research Symposium, Hangzhou, China. 2021.
+> Alparslan, B., Jain, M., Wu, J. and Dev, S.(2021). "Analyzing Air Pollutant Concentrations in New Delhi, India." *Progress in Electromagnetic Research Symposium*, Hangzhou, China. 2021.
 
 ### Executive summary
 Elevated air pollutants concentrations have shown to have a significant impact on human health, ecosystem as well as radio communications and increased fog levels or decreased visibility. In this work, we provide a scrapped, analyzed and pre-processed dataset from  National Air Quality Index of India (NAQII) website. The datset is scrapped for 2 stations (i.e. Anand Vihar and Punjabi Bagh) for 2017 and 2018.
